@@ -1,0 +1,8 @@
+.icons{
+    display: flex;
+    justify-content: space-around;
+}
+.bio{
+    font-size: 30px;
+    color: #6F6961;
+}
