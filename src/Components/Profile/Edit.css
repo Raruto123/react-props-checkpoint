@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #C96487;
+}
+button{
+    border: 1px solid #C96487;
+    border-radius: 2px;
+    background-color: #FEF1F6;
+}
